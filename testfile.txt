@@ -1,4 +1,5 @@
 Matthew
+Ekanem and Vodina
 Luke
 Anna
 liam
@@ -26,5 +27,15 @@ basil is the committer
 basil is the committer 
 
 We will all get DevOps jobs in 4-5 months!
+<<<<<<< HEAD
+dorime
+olingo
+
+pray always ise
+=======
 >>>>>>> 19bacee1d0cf175e305fb4f440386b1f134126d2
+<<<<<<< HEAD
 Great session today Pioneers
+=======
+>>>>>>> refs/remotes/origin/master
+>>>>>>> b115c4dcfca266b62c3bd90bfa0ea102b80d534c
