@@ -39,3 +39,4 @@ Great session today Pioneers
 =======
 >>>>>>> refs/remotes/origin/master
 >>>>>>> b115c4dcfca266b62c3bd90bfa0ea102b80d534c
+Refreshing Commands Fetch status pull status add commit status
