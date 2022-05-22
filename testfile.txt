@@ -31,6 +31,7 @@ We will all get DevOps jobs in 4-5 months!
 dorime
 olingo
 
+pray always ise
 =======
 >>>>>>> 19bacee1d0cf175e305fb4f440386b1f134126d2
 >>>>>>> refs/remotes/origin/master
